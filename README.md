@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working at Amazon, in ROC
+- 🔭 I’m currently working at Amazon,ROC
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on data science and machine learning projects
 - 🤔 I’m looking for help with advanced data visualization and predictive modeling
