@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love discovering patterns in data
 
-
+<img align="right" alt="data science" width="400" src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif">  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/contact-sandeepkumar) 
