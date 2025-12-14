@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on data science and machine learning projects
 - 🤔 I’m looking for help with advanced data visualization and predictive modeling
 - 💬 Ask me about SQL, Python,Data Analysis, Machine Learning, and Statistics
-- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/contact-sandeepkumar/) or email me at nagabathulasandeep46@gmail.com
+- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/in/contact-sandeepkumar/) or email me at nagabathula98@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love discovering patterns in data
 
